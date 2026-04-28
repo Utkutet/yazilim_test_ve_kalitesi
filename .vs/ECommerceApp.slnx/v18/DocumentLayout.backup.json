@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ester\\source\\repos\\ECommerceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B728EECF-EB62-4D2B-8DE4-EDA6A9BE067A}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\ester\\source\\repos\\ecommerceapp\\ecommerceapp\\ecommercetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B728EECF-EB62-4D2B-8DE4-EDA6A9BE067A}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\ecommercetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B728EECF-EB62-4D2B-8DE4-EDA6A9BE067A}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\ester\\source\\repos\\ecommerceapp\\ecommerceapp\\core\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B728EECF-EB62-4D2B-8DE4-EDA6A9BE067A}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\core\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B728EECF-EB62-4D2B-8DE4-EDA6A9BE067A}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\ester\\source\\repos\\ecommerceapp\\ecommerceapp\\core\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B728EECF-EB62-4D2B-8DE4-EDA6A9BE067A}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\core\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B728EECF-EB62-4D2B-8DE4-EDA6A9BE067A}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\ester\\source\\repos\\ecommerceapp\\ecommerceapp\\core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B728EECF-EB62-4D2B-8DE4-EDA6A9BE067A}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Ester\\source\\repos\\ECommerceApp\\ECommerceApp\\Core\\OrderService.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Core\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Ester\\source\\repos\\ECommerceApp\\ECommerceApp\\Core\\OrderService.cs",
+              "RelativeToolTip": "ECommerceApp\\Core\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:10:12.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Ester\\source\\repos\\ECommerceApp\\ECommerceApp\\Core\\Cart.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Core\\Cart.cs",
+              "ToolTip": "C:\\Users\\Ester\\source\\repos\\ECommerceApp\\ECommerceApp\\Core\\Cart.cs",
+              "RelativeToolTip": "ECommerceApp\\Core\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:10:02.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Ester\\source\\repos\\ECommerceApp\\ECommerceApp\\Core\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Core\\Product.cs",
+              "ToolTip": "C:\\Users\\Ester\\source\\repos\\ECommerceApp\\ECommerceApp\\Core\\Product.cs",
+              "RelativeToolTip": "ECommerceApp\\Core\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:09:54.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ECommerceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Ester\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceTests.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\ECommerceTests.cs",
+              "ToolTip": "C:\\Users\\Ester\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceTests.cs",
+              "RelativeToolTip": "ECommerceApp\\ECommerceTests.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAwGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:09:18.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

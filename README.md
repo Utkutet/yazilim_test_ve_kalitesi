@@ -1,4 +1,4 @@
-#E-Ticaret Sistemi - Yazılım Test ve Kalite Projesi
+E-Ticaret Sistemi - Yazılım Test ve Kalite Projesi
 
 Bu proje, yazılım test süreçlerini ve **NUnit** framework'ünün kullanımını uygulamalı olarak göstermek amacıyla geliştirilmiş bir e-ticaret simülasyonudur. Sistemde **kasıtlı olarak bırakılmış mantık hataları (bug'lar)** bulunmakta olup, yazılan Unit, Black Box, Gray Box ve Integration testleri ile bu hataların nasıl tespit edildiği raporlanmıştır.
 ------------------------------------------------------------
